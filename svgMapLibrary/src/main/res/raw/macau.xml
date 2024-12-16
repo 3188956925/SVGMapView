@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<vector 
+    android:height="600dp" 
+    android:name="澳门特别行政区" 
+    android:viewportHeight="600" 
+    android:viewportWidth="800" 
+    android:width="800dp" 
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <path
+        android:fillColor="#D3D3D3"
+        android:name="澳门特别行政区"
+        android:pathData="M680 443L681 457L685 458L699 456L717 437L709 414L696 389L695 380L682 373L678 373L675 376L669 377L671 385L665 400L674 420L681 429zM704 383L697 383L697 388L704 388z"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="0.5"
+        />
+    <path 
+        android:fillColor="#D3D3D3" 
+        android:name="花地玛堂区" 
+        android:pathData="M671 383L678 381L686 389L701 398L696 389L695 380L690 377L682 373L678 373L675 376L669 377L671 381zM704 383L697 383L697 388L704 388z" 
+        android:strokeColor="#FFFFFF" 
+        android:strokeWidth="0.5" 
+        />
+    <path 
+        android:fillColor="#D3D3D3" 
+        android:name="花王堂区" 
+        android:pathData="M670 388L674 390L681 384L678 381L676 381L671 383L671 385z" 
+        android:strokeColor="#FFFFFF" 
+        android:strokeWidth="0.5" 
+        />
+    <path 
+        android:fillColor="#D3D3D3" 
+        android:name="望德堂区" 
+        android:pathData="M685 388L685 386L682 384L677 388L678 390L682 390L684 388z" 
+        android:strokeColor="#FFFFFF" 
+        android:strokeWidth="0.5" 
+        />
+    <path 
+        android:fillColor="#D3D3D3" 
+        android:name="大堂区" 
+        android:pathData="M671 414L704 404L701 398L685 388L682 390L675 390L671 388L674 392L672 398L669 401L665 400L668 408z" 
+        android:strokeColor="#FFFFFF" 
+        android:strokeWidth="0.5" 
+        />
+    <path 
+        android:fillColor="#D3D3D3" 
+        android:name="风顺堂区" 
+        android:pathData="M665 400L669 401L672 398L675 392L671 388L666 395L666 399z" 
+        android:strokeColor="#FFFFFF" 
+        android:strokeWidth="0.5" 
+        />
+    <path 
+        android:fillColor="#D3D3D3" 
+        android:name="嘉模堂区" 
+        android:pathData="M677 424L686 425L689 422L692 425L695 422L715 433L709 414L704 404L671 414L674 420z" 
+        android:strokeColor="#FFFFFF" 
+        android:strokeWidth="0.5" 
+        />
+    <path 
+        android:fillColor="#D3D3D3" 
+        android:name="路凼填海区" 
+        android:pathData="M680 443L688 441L697 435L701 435L706 428L695 422L692 425L689 422L686 425L677 424L681 429z" 
+        android:strokeColor="#FFFFFF" 
+        android:strokeWidth="0.5" 
+        />
+    <path 
+        android:fillColor="#D3D3D3" 
+        android:name="圣方济各堂区" 
+        android:pathData="M680 443L681 457L685 458L699 456L717 437L715 433L706 428L701 435L691 437L691 440L688 441z" 
+        android:strokeColor="#FFFFFF" 
+        android:strokeWidth="0.5" 
+        />
+</vector>

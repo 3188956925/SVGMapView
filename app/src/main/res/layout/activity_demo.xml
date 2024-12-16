@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fefbec"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <com.readboy.localmap.svgmaplib.MapView
+        android:id="@+id/mapview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+<!--    <com.readboy.localmap.svgmaplib.MapView-->
+<!--        android:id="@+id/mapview2"-->
+<!--        android:layout_width="400dp"-->
+<!--        android:layout_height="400dp"-->
+<!--        />-->
+
+</RelativeLayout>
